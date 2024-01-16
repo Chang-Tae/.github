@@ -4,4 +4,4 @@
 |              백엔드 개발                  |                   기획                  | 
 | [@RosieOh](https://github.com/rosieoh) |  [@mayac102](https://github.com/mayac102) |
 
-mayac102
+내용은 생각나는 대로 작성해야지...
