@@ -2,4 +2,6 @@
 |                   오태훈                  |   이창원                               |                     
 |:--------------------------------------:|:--------------------------------------:|
 |              백엔드 개발                  |                   기획                  | 
-| [@RosieOh](https://github.com/rosieoh) |                                        |
+| [@RosieOh](https://github.com/rosieoh) |  [@mayac102](https://github.com/mayac102) |
+
+mayac102
