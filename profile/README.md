@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔥고생하는 우리 이창원 주사님...한참 어린 개발자 동생이 할줄 아는게 개발 뿐이라 도와주고자 시작한 프로젝트🔥
+|                   오태훈                  |   이창원                               |                     
+|:--------------------------------------:|:--------------------------------------:|
+|              백엔드 개발                  |                   기획                  | 
+| [@RosieOh](https://github.com/rosieoh) |                                        |
